@@ -1,51 +1,18 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
+Modelos de Aprendizage de IA: Como as Máquinas Aprendem 🌌
+📒 Descrição
+Este e-book de 8 páginas explora os tipo de aprendizagem de máquina, de uma forma simples e com exemplos reais, mostrando que a IA está presente em nosso dia a dia e nem percebemos.
 
-## 🚀 Introdução
+🤖 Tecnologias Utilizadas
+IA Generativa ChatGPT e Gemini para roteirização;
+IA Generativa do Canvas para criar a arte visual do e-book;
 
-> Woooow! Look at this 👀
+🧐 Processo de Criação
+Utilizei o "ChatGPT" para revisar minha pesquisa sobre modelos de aprendizagem, estruturar o conteúdo e refinar minhas ideias. Por outro lado, a IA do Canvas foi usada para gerar o modelo do nosso e-book e para editar o texto.
 
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
+🚀 Resultados
+O e-book apresenta um conteúdo simples mas bem elaborado, demonstrando como as IAs estão cada vez mais presentes em nosso cotidiano e podem ser uma ferramenta poderosa para nos agregar valor, aprendizado e espalhar conhecimento.
 
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
+LINK PARA O E-BOOK AQUI [aqui]([https://www.example.com](https://drive.google.com/drive/folders/1NV8W6p9H6ElXe0GcXB7-5xhqvqjswJkH?hl=pt-br&q=sharedwith:public%20parent:1NV8W6p9H6ElXe0GcXB7-5xhqvqjswJkH)
 
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
-
-## 📒 Descrição
-Breve descrição do seu projeto
-
-## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
-
-## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
-
-## 🚀 Resultados
-Apresente os resultados do seu projeto
-
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
-
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+💭 Reflexão
+Criar este e-book foi uma experiência marcante, pois me fez aprofundar em um assunto que já gostava e me aguçou a curiosidade para enteder e aprender cada vez mais
